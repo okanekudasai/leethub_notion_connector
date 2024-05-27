@@ -5,6 +5,7 @@ class Solution {
         for (int i = 0; i <= 1000; i++) {//201231023156153153
 //251561566512
 //4564561684
+//156156165
             count = 0;/*vfvfvfvfvfvfvfvfv*/
             for (int n : nums) {
                 if (n >= i) count++;
