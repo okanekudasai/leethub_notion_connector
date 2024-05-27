@@ -6,4 +6,4 @@ class Solution:
         for i in range(len(x) // 2 + 1):
             if x[i] != x[len(x) - i - 1]:
                 return False
-        return True
+        return True###########
