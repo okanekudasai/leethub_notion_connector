@@ -6,7 +6,7 @@ class Solution:
                 if j < n and f[j + 1] - f[i] <= maxCost:
                     return True
             return False
-
+#sefjsieofjsoief
             #ijojiojoi
 
         n = len(s)
