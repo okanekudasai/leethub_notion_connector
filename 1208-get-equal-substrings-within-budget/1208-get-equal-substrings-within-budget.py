@@ -7,6 +7,8 @@ class Solution:
                     return True
             return False
 
+            #ijojiojoi
+
         n = len(s)
         f = list(accumulate((abs(ord(a) - ord(b)) for a, b in zip(s, t)), initial=0))
         l, r = 0, n
