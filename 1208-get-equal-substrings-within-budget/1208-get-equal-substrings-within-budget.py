@@ -5,7 +5,7 @@ class Solution:
                 j = i + mid - 1
                 if j < n and f[j + 1] - f[i] <= maxCost:
                     return True
-            return False
+            return False#sefsefsef
 #sefjsieofjsoief
             #ijojiojoi
 
