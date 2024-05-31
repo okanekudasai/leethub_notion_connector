@@ -6,6 +6,7 @@ class Solution {
             else set.add(i);
         }
         ///
+        //848484
         // asfefaes
         int [] answer  = new int [2];
         int index = 0;
