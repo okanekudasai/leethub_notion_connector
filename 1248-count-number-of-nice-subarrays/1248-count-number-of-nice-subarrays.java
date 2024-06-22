@@ -19,7 +19,7 @@ class Solution {
             answer += (list.get(index)+1) * (list.get(index+k)+1);
             index++;
         }
-        System.out.println(list);
+        // System.out.println(list);
         return answer;
     }
 }
