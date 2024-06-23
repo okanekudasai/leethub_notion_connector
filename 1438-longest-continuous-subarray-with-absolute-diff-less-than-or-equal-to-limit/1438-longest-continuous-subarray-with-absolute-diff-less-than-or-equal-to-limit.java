@@ -15,8 +15,8 @@ class Solution {
                 if (!asc.isEmpty() && asc.peekFirst() >= nums[left]) asc.pollFirst();
                 left++;
             }
-            System.out.println("*" + desc);
-            System.out.println(asc);
+            // System.out.println("*" + desc);
+            // System.out.println(asc);
             answer = Math.max(answer, right - left + 1);
         }
         return answer;
